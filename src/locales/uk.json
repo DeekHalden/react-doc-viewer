@@ -1,0 +1,10 @@
+{
+  "documentNavInfo": "Документ {{ currentFileNo }} з {{ allFilesCount }}",
+  "noRendererMessage": "Данний тип файла не підтримується рендером: {{{ fileType }}}",
+  "downloadButtonLabel": "Завантажити файл",
+  "brokenFile": "Ваш файл пошкоджений. Будь ласка, перевірте його на своєму комп'ютері.",
+  "msgPluginRecipients": "Отримувачі",
+  "msgPluginSender": "Відправник",
+  "pdfPluginLoading": "Завантаження...",
+  "pdfPluginPageNumber": "Сторінка {{ currentPage }}/{{ allPagesCount }}"
+}

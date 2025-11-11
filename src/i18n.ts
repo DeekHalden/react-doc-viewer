@@ -12,6 +12,7 @@ import ja from "./locales/ja.json";
 import ru from "./locales/ru.json";
 import se from "./locales/se.json";
 import tr from "./locales/tr.json";
+import uk from "./locales/uk.json";
 
 export const locales = {
   en,
@@ -28,6 +29,7 @@ export const locales = {
   ru,
   se,
   tr,
+  uk,
 };
 
 export const supportedLanguages = Object.keys(locales);
